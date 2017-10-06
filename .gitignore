@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+bin/logs/**
+.build-msvc10/**
+logs/*.log
+bin/*.ilk
+linklib/**
+bin/atari.exe
+bin/atari.pdb
+bin/hge.pdb
+tutorials/**
+workspace/**
+doc/**
+archive/**
