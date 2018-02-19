@@ -58,3 +58,5 @@ tutorials/**
 workspace/**
 doc/**
 archive/**
+bin/atari.log
+*.log
